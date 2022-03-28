@@ -4,15 +4,8 @@
 i code.
 `
 ##### LIKES
-- 🏐 Volleyball
-- 👾 Anime 
-- 🎮 Gaming
-- 🎥 TV shows & Movies
-- ✨ JS & Solidity
-
-##### DISLIKES
-- 🧊 PHP
-- ☕ JAVA
+- 👾 Anime
+- ✨ TS & Solidity
 
 
 <!-- ##### STATS
