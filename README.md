@@ -6,6 +6,7 @@ i code.
 ##### LIKES
 - 👾 Anime
 - ✨ TS & Solidity
+- 🦀 Rust
 
 
 <!-- ##### STATS
