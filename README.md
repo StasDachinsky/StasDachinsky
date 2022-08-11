@@ -5,7 +5,7 @@ i code.
 `
 ##### LIKES
 - 👾 Anime
-- ✨ TS & Solidity
+- ✨ JS & TS & Solidity
 - 🦀 Rust
 
 
